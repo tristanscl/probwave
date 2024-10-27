@@ -1,0 +1,1 @@
+TRADING_YEAR: int = 252
